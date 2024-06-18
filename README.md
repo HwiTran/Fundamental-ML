@@ -7,8 +7,8 @@ This repository contains the code and data for a mini-project on facial expressi
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|||
-    |2|||
+    |1|Lê Nguyễn Thanh Lâm|21110329|
+    |2|Trần Đăng Huy|21110100|
     |3|||
     |4|||
 
