@@ -42,3 +42,13 @@ This project is designed to be completed in the following steps:
 
 
 Feel free to modify and extend the notebook to explore further aspects of the data and experiment with different algorithms. Good luck.
+
+
+##  ✅What we did in this project.
+    1. Load the data from CSV file.
+    2. Visualize distribution of labels in datset.
+    3. Normalize dataset.
+    4. Finetuning model on dataset (Logistic Regression, Random Forest Classifer, Support Vector Machine, Multi-layer Perceptron) 
+    5. Analyse Wrong Prediction (Confusion Matrix)
+    6. Evaluating Classification Performance (Accuracy - Recall - Precision - F1 Score) and choose the best one.
+
